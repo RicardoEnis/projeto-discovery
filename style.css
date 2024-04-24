@@ -139,11 +139,12 @@ ul li a {
 ul li a:hover {
     background:  var(--surface-color-hover);
     border: 1.5px solid var(--text-color);
+    cursor: pointer;
 
-    /*social links */
 
 }
 
+    /*social links */
 
 #social-links {
     margin-top: 36px;
