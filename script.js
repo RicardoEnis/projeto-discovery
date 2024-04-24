@@ -36,7 +36,7 @@ function showLinks(event) {
 
     // Adiciona os links
     linkContainer.innerHTML = `
-        <a href="https://ricardoenis.github.io/godpedia/pages/shiva.html">GodPedia</a><br>
+        <a href="https://ricardoenis.github.io/godpedia">GodPedia</a><br>
         <a href="https://ricardoenis.github.io/lucky-biscuit/">Lucky biscuit</a><br>
     `;
 
